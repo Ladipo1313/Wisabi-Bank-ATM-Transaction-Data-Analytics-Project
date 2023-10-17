@@ -37,7 +37,7 @@ Steps Taken
 4. Hide the foreign key column in the transaction table (e,g Cardholder ID, Hour, TransactionTypeID e.t.c)
 5. Build report to solve the  business problems using Measures and DAX expressions
 
-![](./Wisabi_Bank_Snippet.JPG)
+![](./Wisabi_Bank_Snippet.JPEG)
 
 USEFUL INSIGHTS GOTTEN FROM THE ANALYSIS
 1. The Total Amount generate by the bank is 39 Billion between the time frame of January till December 2022.
